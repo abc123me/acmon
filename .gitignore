@@ -1,0 +1,4 @@
+*.o
+ac_scale.txt
+dc_scale.txt
+main
